@@ -3,19 +3,19 @@ Hexchat-XDCC-Server-AddOn - Its idea is to act as a XDCC Server script written i
 
 It's intent is to do the below:
 
-**      **-indexes HDD folder(s)**
+  **indexes HDD folder(s)**
       
-  **  **  -assigns packet number****
+  **assigns packet number**
       
-**    **  -responds to /msg <BOT-SCRIPT-IRC-NAME> "XDCC SEND <packet number> or "XDCC SEARCH QUERYSTRING" queries****
+  **responds to /msg <BOT-SCRIPT-IRC-NAME> "XDCC SEND <packet number> or "XDCC SEARCH QUERYSTRING" queries**
       
-**     ** -works on a message interval****
+  **works on a message interval**
       
-**      -refuses to send file(s) if not in the same channel as the bot hosting this script**
+  **refuses to send file(s) if not in the same channel as the bot hosting this script**
       
-   ** **  **-prevents channel AND network flooding****
-      **
-    **  -ONLY displays to specified channel(s)********
+  **prevents channel AND network flooding**
+      
+  **ONLY displays to specified channel(s)**
 
 Here is a breakdown of the commands available in the XDCC Server Script, along with their usage:
 
